@@ -4,6 +4,6 @@ This time, I will be mainly focusing on freecodecamp curriculum.
 
 ### Day 1: 25th June 2018, Monday 
 
-""Today's Progress: "" Started with the Freecodecamp Responsive Web Design Certification. Worked on the HTML5. 
-""Thoughts: " I already knew most of the stuff here. But it helped me brushup the previous knowledge.
-""Link to the Work: "" https://www.freecodecamp.org/shreya25592
+**Today's Progress: ** Started with the Freecodecamp Responsive Web Design Certification. Worked on the HTML5. 
+**Thoughts: ** I already knew most of the stuff here. But it helped me brushup the previous knowledge.
+**Link to the Work: ** https://www.freecodecamp.org/shreya25592
