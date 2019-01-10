@@ -12,3 +12,16 @@ As I was familier with HTML, so didn't face any trouble with the module. Complet
 
 ### Link:
 https://www.freecodecamp.org/shreya2592
+
+
+## Day 2, 9th January'19
+
+
+### Today's Progress: 
+Completed the CSS Module.
+
+### Thoughts: 
+Understood the power of CSS, changes the look and feel of the webpage. 
+
+### Link:
+https://www.freecodecamp.org/shreya2592
