@@ -1,27 +1,8 @@
 # 100-days-of-code
-Will code 1 hour for the next 100 days.
-
-
-## Day 1, 8th January'19
-
-### Today's Progress: 
-Started with the freecodecamp full stack curriculum- First module, Responsive Web Design Certification. Completed the HTML module. Started the CSS module and completed half of it. 
-
-### Thoughts: 
-As I was familier with HTML, so didn't face any trouble with the module. Completed within an hour. Spent some time experimenting with differnt CSS style properties.
-
-### Link:
-https://www.freecodecamp.org/shreya2592
-
-
-## Day 2, 9th January'19
-
-
-### Today's Progress: 
-Completed the CSS Module.
-
-### Thoughts: 
-Understood the power of CSS, changes the look and feel of the webpage. 
-
-### Link:
-https://www.freecodecamp.org/shreya2592
+Will code 1 hour for the next 100 days. This round of 100 days code challenge, I am going to learn the JAVA tech stack which includes : 
+Technology - Java 8, 9, Servlets 
+Frontend- Javascript, JSP
+Microservices 
+REST APIs
+Framework: Spring MVC Spring Boot 
+Database- Mongo DB
